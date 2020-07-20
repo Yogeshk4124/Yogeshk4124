@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on android
 - 🤔 I’m looking for help with web development
+- 💻 Skills: C, C++, python, Java, Html, CSS, Javascript
 - 💬 Ask me about android
 - 📫 How to reach me: yogeshk4124@gmail.com
 - 😄 Pronouns: Android developer, UI/UX designer

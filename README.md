@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Yogeshk4124/Yogeshk4124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yogeshk4124@gmail.com
 - 😄 Pronouns: Android developer, UI/UX designer
 - ⚡ Fun fact: I love watching anime
--->
-![Github  stats]https://github-readme-stats.vercel.app/api?username=yogeshk4124&show_icons=true&hide_border=true
+
+![Github  stats](https://github-readme-stats.vercel.app/api?username=yogeshk4124&show_icons=true&hide_border=true)

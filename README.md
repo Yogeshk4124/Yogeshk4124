@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Android developer, UI/UX designer
 - ⚡ Fun fact: I love watching anime
 
-![Github  stats](https://github-readme-stats.vercel.app/api?username=yogeshk4124&show_icons=true&hide_border=true)
+![Github  stats](https://github-readme-stats.vercel.app/api?username=yogeshk4124&show_icons=true&hide_border=false&theme=dracula)

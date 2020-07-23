@@ -13,4 +13,4 @@
 ![Github  stats](https://github-readme-stats.vercel.app/api?username=yogeshk4124&show_icons=true&hide_border=false&theme=dracula)
 
 ### HackerRank Badges
-![Github  HackerRankBadges](HRBadges.png)
+![Github  HackerRankBadges](https://raw.githubusercontent.com/Yogeshk4124/Yogeshk4124/master/HRBadges.png)

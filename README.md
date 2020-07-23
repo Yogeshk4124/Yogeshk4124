@@ -11,3 +11,4 @@
 - ⚡ Fun fact: I love competitive programming watching anime
 
 ![Github  stats](https://github-readme-stats.vercel.app/api?username=yogeshk4124&show_icons=true&hide_border=false&theme=dracula)
+![Github  stats](HRBadges.png)

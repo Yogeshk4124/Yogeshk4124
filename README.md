@@ -12,7 +12,7 @@
   </em>
 </p>
 
-<img align="right" width=300px alt="Github Cat" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Developer.gif" />
+<img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 

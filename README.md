@@ -15,9 +15,8 @@
 <img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
 
 
-<!-- - <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉 -->
 - &nbsp;Working on **_Competitive Programming skills..._**
-- &nbsp;Looking forward to work on <img alt="Java" width="22px" src="https://www.technipages.com/wp-content/uploads/2018/12/Android-Header-1280x720.png" /> projects &nbsp;!
+- &nbsp;Looking forward to work on <img alt="Java" width="22px" src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/source.gif" /> projects &nbsp;!
 - &nbsp;Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/powerup.gif" width="20vw" /> ...
 - &nbsp;Desire to develop new things in the field of Android 👨‍💻
 - &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️

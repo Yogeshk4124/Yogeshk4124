@@ -7,8 +7,8 @@
   <em>
     This is Yogesh Kumar, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Chandigarh University</b>, Chandigarh</a>. <br>
     An aspiring <b>Full-Stack Android Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/Medal.gif" width="20px">&nbsp.
+    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Rocket.gif" width="18px">and a
+    <b>developer</b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
 
@@ -16,12 +16,12 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
-<!-- - <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉 -->
-- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
-- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> projects &nbsp;!
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/powerup.gif" width="20vw" /> ...
-- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new things in the field of Android 👨‍💻
-- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
+<!-- - <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉 -->
+- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
+- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> projects &nbsp;!
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/powerup.gif" width="20vw" /> ...
+- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/happy.gif" width="30px">&nbsp; Desire to develop new things in the field of Android 👨‍💻
+- <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
 
 <br><br>
 
@@ -59,7 +59,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 </details>
 -->
 
-<img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
 <br>
 <br>
@@ -68,13 +68,13 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <br>
 <br>
 
-# Connect with me <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/main/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Handshake.gif" height="32px">
 
 [<img align="left" alt="Yogesh Portfolio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]()
 
-[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/)
+[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/yogesh-kumar-ba5b7417b/)
 
-<a href="https://twitter.com/Harshit22030549">
+<a href="">
   <img align="left" alt="Yogesh Kumar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 

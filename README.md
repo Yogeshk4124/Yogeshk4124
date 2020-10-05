@@ -6,8 +6,8 @@
 <p align="center">
   <em>
     This is Yogesh Kumar, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Chandigarh University</b>, Chandigarh</a>. <br>
-    An aspiring <b>Full-Stack Android Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Rocket.gif" width="18px">and a
+    An aspiring <b>Full-Stack Android Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
+    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
     <b>developer</b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em>
 </p>

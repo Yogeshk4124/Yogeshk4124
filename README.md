@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Earth.gif" width="24px"> 
 <br>
-<h1 align="center">I'm Yogesh Kumar  <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Developer.gif" width="80px">
+<h1 align="center">I'm Yogesh Kumar 
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
   </em>
 </p>
 
-<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
+<img align="right" width=300px alt="Github Cat" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Developer.gif" />
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 

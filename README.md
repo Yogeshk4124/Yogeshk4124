@@ -16,7 +16,7 @@
 
 
 - &nbsp;Working on **_Competitive Programming skills..._**
-- &nbsp;Looking forward to work on <img alt="Java" width="22px" src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/source.gif" /> projects &nbsp;!
+- &nbsp;Looking forward to work on <img alt="Java" width="14px" height="20px" src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/source.gif" /> projects &nbsp;!
 - &nbsp;Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/powerup.gif" width="20vw" /> ...
 - &nbsp;Desire to develop new things in the field of Android 👨‍💻
 - &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️

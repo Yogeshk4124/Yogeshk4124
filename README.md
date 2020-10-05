@@ -14,7 +14,6 @@
 
 <img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
 
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
 <!-- - <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉 -->
 - &nbsp; Working on **_Competitive Programming skills..._**

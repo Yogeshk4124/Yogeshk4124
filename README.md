@@ -17,6 +17,8 @@
 
 - &nbsp;Working on **_Competitive Programming skills..._**
 - &nbsp;Looking forward to work on projects &nbsp;!
+- &nbsp;Currently learning flutter
+- &nbsp;Pronouns: Android Developer, UI/UX, Firebase, Competetive programmer....
 - &nbsp;Collaborating in various projects as an Open - Source Contributor ...
 - &nbsp;Desire to develop new things in the field of Android 👨‍💻
 - &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️

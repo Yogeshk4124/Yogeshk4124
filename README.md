@@ -26,11 +26,12 @@
 <hr>
 
 _Languages and Tools:_ 🛠 <br><br>
-<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/android-os.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/></code>
 <code><img src="https://img.icons8.com/metro/48/000000/mysql.png"/></code>
@@ -48,14 +49,9 @@ _Languages and Tools:_ 🛠 <br><br>
 <details align="center">
 
 <br />
-<br />
 </details>
 -->
 
-<img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-<br>
-<br>
-<br>
 🔭 You have finally discovered my Github profile!!
 <br>Thanks for stopping by!
 <br>

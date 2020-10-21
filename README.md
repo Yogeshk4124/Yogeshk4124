@@ -25,7 +25,7 @@
 
 <hr>
 
-_Languages and Tools:_ 🛠 
+_Languages and Tools:_ 🛠 <br><br>
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/android-os.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>

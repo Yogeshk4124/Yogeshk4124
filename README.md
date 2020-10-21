@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Earth.gif" width="24px"> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
 <br>
 <h1 align="center">I'm Yogesh Kumar 
 </h1>
@@ -8,7 +8,7 @@
     This is Yogesh Kumar, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Chandigarh University</b>, Chandigarh</a>. <br>
     An aspiring <b>Full-Stack Android Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
-    <b>developer</b> <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>developer</b> &nbsp.
   </em>
 </p>
 
@@ -16,8 +16,8 @@
 
 
 - &nbsp;Working on **_Competitive Programming skills..._**
-- &nbsp;Looking forward to work on <img alt="Java" width="14px" height="20px" src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/source.gif" /> projects &nbsp;!
-- &nbsp;Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/powerup.gif" width="20vw" /> ...
+- &nbsp;Looking forward to work on projects &nbsp;!
+- &nbsp;Collaborating in various projects as an Open - Source Contributor ...
 - &nbsp;Desire to develop new things in the field of Android 👨‍💻
 - &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
 
@@ -29,13 +29,11 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>

@@ -38,7 +38,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <hr>
 
 <p align="center">
@@ -74,7 +74,9 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
   <img align="left" alt="Yogesh Kumar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-[<img align="left" alt="Yogesh Kumar | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]()
+<a href="https://www.instagram.com/yogesh_k4124/">
+<img align="left" alt="Yogesh Kumar | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
+</a>
 
 <a href="https://t.me/Yogeshk4124">
   <img align="left" alt="Yogesh's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />

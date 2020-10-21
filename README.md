@@ -70,9 +70,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 [<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/yogesh-kumar-ba5b7417b/)
 
-<a href="">
-  <img align="left" alt="Yogesh Kumar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 
 <a href="https://www.instagram.com/yogesh_k4124/">
 <img align="left" alt="Yogesh Kumar | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />

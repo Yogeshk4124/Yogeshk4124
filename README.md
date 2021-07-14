@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is Yogesh Kumar, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Chandigarh University</b>, Chandigarh</a>. <br>
+    I am Yogesh Kumar, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Chandigarh University</b>, Chandigarh</a>. <br>
     An aspiring <b>Full-Stack Android Developer  </b>  and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
     <b>developer</b> &nbsp.

@@ -43,8 +43,8 @@ _Languages and Tools:_ 🛠 <br><br>
 
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshk4124&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshk4124&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshk4124&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshk4124&show_icons=true&layout=compact&theme=highcontrast" alt="Most Used Languages">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Yogeshk4124&theme=highcontrast" alt="Streak">
 </p>
 <!--

@@ -63,13 +63,12 @@ _Languages and Tools:_ 🛠 <br><br>
 
 # Connect with me <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="Yogesh Portfolio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]()
+[<img align="left" alt="Yogesh Portfolio" height="30px" src="https://raw.githubusercontent.com/Yogeshk4124/yogeshk4124.github.io/gh-pages/icons/Icon-512.png" />]()
 
-[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/yogesh-kumar-ba5b7417b/)
+[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/yogesh-kumar-ba5b7417b/)
 
 
-
-<a href="https://www.instagram.com/yogesh_k4124/">
+<a href="https://www.instagram.com/yogeshk4124/">
 <img align="left" alt="Yogesh Kumar | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
 </a>
 

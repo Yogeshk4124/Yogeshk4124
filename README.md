@@ -69,7 +69,7 @@ _Languages and Tools:_ 🛠 <br><br>
 
 
 <a href="https://www.instagram.com/yogeshk4124/">
-<img align="left" alt="Yogesh Kumar | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
+<img align="left" alt="Yogesh Kumar | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 
 <a href="https://t.me/Yogeshk4124">

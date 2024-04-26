@@ -1,27 +1,26 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
 <br>
-<h1 align="center">I'm Yogesh Kumar 
-</h1>
+<h2 align="center">I'm Yogesh Kumar</h2>
+<h4 align="center">🚀 Software Developer at Walmart Labs</h4>
 
 <p align="center">
-  <em>
-    I am Yogesh Kumar, a 4th year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Chandigarh University</b>, Chandigarh</a>. <br>
-    An aspiring <b> Android Developer  </b>  and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
-    <b>developer</b> &nbsp.
-  </em>
+  <em><b>
+    I'm deeply passionate about leveraging technology to build robust and scalable solutions. Here are a few highlights of my journey:
+  </b></em>
 </p>
 
 <img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
 
 
-- &nbsp;Working on **_Competitive Programming skills..._**
-- &nbsp;Looking forward to work on projects &nbsp;!
-- &nbsp;Currently learning flutter
-- &nbsp;Pronouns: Android Developer, UI/UX, Firebase, Competitive programmer....
-- &nbsp;Collaborating in various projects as an Open - Source Contributor ...
-- &nbsp;Desire to develop new things in the field of Android 👨‍💻
+- &nbsp;📚 Constantly learning new design patterns and architectures to enhance my skills and stay updated with the latest industry trends.
+- &nbsp;🏗️ Experienced in system design, ensuring the scalability and reliability of applications.
+- &nbsp;📱 Worked with Flutter for developing cross-platform Android and iOS applications, providing a seamless experience across different devices.
+- &nbsp;💻 Enthusiastic about competitive programming, honing problem-solving skills and algorithmic thinking.
+- &nbsp;Pronouns: Backend Developer, Android Developer, UI/UX, Firebase, Competitive programmer....
 - &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
+
+Feel free to explore my repositories and connect with me on LinkedIn!<br>
+Let's build something awesome together! 🛠️✨
 
 <br><br>
 
@@ -76,4 +75,4 @@ _Languages and Tools:_ 🛠 <br><br>
   <img align="left" alt="Yogesh's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Yogeshk4124&repo=Yogeshk4124&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=yogeshk4124&style=flat&color=yellow&label=Visitors&abbreviated=true"/>
